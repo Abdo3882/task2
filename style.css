@@ -1,0 +1,23 @@
+.session{
+    background-color: bisque;
+    text-align: center;
+}
+.s-table{
+    background-color: rgb(85, 94, 94);
+    text-align: center;
+}
+.table{
+    background-color: rgb(202, 106, 169);
+    text-align: center;
+   
+}
+.table2{
+    background-color: rgb(106, 178, 202);
+    text-align: center;
+   
+}
+
+#text p{
+    text-align: center;
+    margin: 0;
+}
